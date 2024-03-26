@@ -110,7 +110,10 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "gourmetgrid-user-guide": "GourmetGrid User Guide",
+        "introduction": "Introduction",
+        "about": "About",
+        "how-to-use-the-guide": "How to Use the Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
