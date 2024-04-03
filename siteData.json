@@ -52,6 +52,7 @@
         "implementation": "Implementation",
         "add-command": "Add command",
         "add-favourite-feature": "Add favourite feature",
+        "remove-favourite-feature": "Remove favourite feature",
         "show-favourite-feature": "Show favourite feature",
         "add-order-feature": "Add order feature",
         "listorder-feature": "ListOrder Feature",
