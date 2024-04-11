@@ -55,8 +55,8 @@
         "remove-favourite-feature": "Remove favourite feature",
         "show-favourite-feature": "Show favourite feature",
         "add-order-feature": "Add order feature",
-        "listorder-feature": "ListOrder Feature",
-        "deleteorder-feature": "DeleteOrder Feature",
+        "list-order-feature": "List order Feature",
+        "delete-order-feature": "Delete order Feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -69,6 +69,7 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
+        "adding-an-order": "Adding an order",
         "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
