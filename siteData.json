@@ -70,6 +70,8 @@
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
         "adding-an-order": "Adding an order",
+        "listing-orders": "Listing orders",
+        "deleting-an-order": "Deleting an order",
         "saving-data": "Saving data",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
